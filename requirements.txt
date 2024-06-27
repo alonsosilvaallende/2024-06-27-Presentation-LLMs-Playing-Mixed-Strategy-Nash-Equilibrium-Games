@@ -1,0 +1,16 @@
+jupyterlab
+jupyterlab_execute_time
+black
+isort
+ruff
+jupyterlab_code_formatter
+jupyterlab-deck
+torch
+transformers
+sentencepiece
+protobuf
+langchain-core
+langchain_experimental
+json-repair
+ipywidgets
+# llama-cpp-python[server]
