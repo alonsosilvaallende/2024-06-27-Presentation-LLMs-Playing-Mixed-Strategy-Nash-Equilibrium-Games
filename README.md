@@ -1,12 +1,14 @@
 # 2024-06-27-Presentation-LLMs-Playing-Mixed-Strategy-Nash-Equilibrium-Games
 
+The **full title** of this presentation is **"Large Language Models Playing Mixed Strategy Nash Equilibrium Games"**.
+
 Presentation given at the [2024 LINCS Annual Workshop](https://www.lincs.fr/2024-lincs-annual-workshop-with-its-scientific-committee/). 
 
 It is based on the paper [Large Language Models Playing Mixed Strategy Nash Equilibrium Games](https://arxiv.org/abs/2406.10574).
 
 *The video recording of the presentation will be posted soon.*
 
-The notebook presented can be found [here](https://github.com/alonsosilvaallende/2024-06-27-Presentation-LLMs-Playing-Mixed-Strategy-Nash-Equilibrium-Games/blob/main/Presentation.ipynb).
+The **notebook presented** can be found [here](https://github.com/alonsosilvaallende/2024-06-27-Presentation-LLMs-Playing-Mixed-Strategy-Nash-Equilibrium-Games/blob/main/Presentation.ipynb).
 
 To run the notebook, install the `requirements.txt`:
 ```console
@@ -14,8 +16,6 @@ pip install -r requirements.txt
 ```
 
 This presentation took place on June 27, 2024.
-
-The **title** of this presentation is "Large Language Models Playing Mixed Strategy Nash Equilibrium Games".
 
 The **abstract** of this presentation is:
 
