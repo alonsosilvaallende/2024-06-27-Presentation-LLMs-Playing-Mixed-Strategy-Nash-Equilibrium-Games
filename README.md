@@ -1,6 +1,8 @@
 # 2024-06-27-Presentation-LLMs-Playing-Mixed-Strategy-Nash-Equilibrium-Games
 
-Presentation given at the [2024 LINCS Annual Workshop](https://www.lincs.fr/2024-lincs-annual-workshop-with-its-scientific-committee/).
+Presentation given at the [2024 LINCS Annual Workshop](https://www.lincs.fr/2024-lincs-annual-workshop-with-its-scientific-committee/). 
+
+It is based on the paper [Large Language Models Playing Mixed Strategy Nash Equilibrium Games](https://arxiv.org/abs/2406.10574).
 
 *The video recording of the presentation will be posted soon.*
 
