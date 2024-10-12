@@ -6,7 +6,9 @@ Presentation given at the [2024 LINCS Annual Workshop](https://www.lincs.fr/2024
 
 It is based on the paper [Large Language Models Playing Mixed Strategy Nash Equilibrium Games](https://arxiv.org/abs/2406.10574).
 
-*The video recording of the presentation will be posted soon.*
+The **video recording** of the presentation can be found [here](https://www.youtube.com/watch?v=VDz_c9QEuO0).
+
+[![Image of the title slide](http://img.youtube.com/vi/VDz_c9QEuO0/0.jpg)](http://www.youtube.com/watch?v=VDz_c9QEuO0 "Large Language Models Playing Mixed Strategy Nash Equilibrium Games")
 
 The **notebook presented** can be found [here](https://github.com/alonsosilvaallende/2024-06-27-Presentation-LLMs-Playing-Mixed-Strategy-Nash-Equilibrium-Games/blob/main/Presentation.ipynb).
 
